@@ -1,0 +1,25 @@
+{
+    "common": {
+        "logout": "Logout",
+        "setting": "Settings",
+        "lang": "Language",
+        "vietnamese": "Vietnamese",
+        "english": "English",
+        "search": "Search"
+    },
+    "action": {
+        "create": "Create",
+        "update": "Update",
+        "delete": "Delete",
+        "cancel": "Cancel",
+        "save": "Save"
+    },
+    "trans_menu": {
+        "overview": "Overview",
+        "user_management": "User Management",
+        "user": "User",
+        "department": "Department",
+        "permission": "Permission",
+        "Role": "Role"
+    }
+}

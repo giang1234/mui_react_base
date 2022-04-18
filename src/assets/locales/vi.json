@@ -1,0 +1,25 @@
+{
+   "common": {
+      "logout": "Đăng xuất",
+      "setting": "Cài đặt",
+      "lang": "Ngôn ngữ",
+      "vietnamese": "Tiếng Việt",
+      "english": "Tiếng Anh",
+      "search": "Tìm kiếm"
+   },
+   "action": {
+      "create": "Tạo mới",
+      "update": "Cập nhật",
+      "delete": "Xóa",
+      "cancel": "Đóng",
+      "save": "Lưu"
+   },
+   "trans_menu": {
+       "overview": "Tổng quan",
+       "user_management": "Quản lý Người dùng",
+       "user": "Người dùng",
+       "department": "Đơn vị",
+       "permission": "Phân quyền",
+       "Role": "Phân quyền"
+   }
+}
